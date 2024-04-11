@@ -28,11 +28,11 @@ I'm a dynamic **CEO and Founder** with a passion for **entrepreneurship, sustain
 
 **Electrify Mobility** is a revolutionary project focused on converting last-mile delivery vehicles from petrol to electric (EV), spearheading sustainable urban transportation solutions. This project showcases my expertise in **sustainable technology, business development, and fleet management**. You can check out the project [here](electrify_mobility_repository_link).
 
-### [GeeKTech Corp.](geektech_corp_link)
+### [GeeKTech Corp.](https://geektech.software)
 
 ![GeeKTech Corp. Screenshot](geektech_corp_screenshot_url)
 
-**GeeKTech Corp.** is a leading technology company specializing in innovative projects with a combined value exceeding 3 million dollars. As the CEO and Founder, I led and managed multiple ongoing projects, demonstrating my skills in **entrepreneurship, project management, and team leadership**. You can explore the company [here](geektech_corp_repository_link).
+**GeeKTech Corp.** is a leading technology company specializing in innovative projects with a combined value exceeding 3 million dollars. As the CEO and Founder, I led and managed multiple ongoing projects, demonstrating my skills in **entrepreneurship, project management, and team leadership**. You can explore the company [here](https://geektech.software).
 
 ## Get in Touch 📬
 
