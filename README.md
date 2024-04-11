@@ -1,6 +1,6 @@
 # Hi there, I'm Abdelrhman Hatem! 👋
 
-![Banner Image](your_b anner_image_url_here)
+![Banner Image](/banner.png)
 
 ## About Me 🚀
 
@@ -22,7 +22,7 @@ I'm a dynamic **CEO and Founder** with a passion for **entrepreneurship, sustain
 
 ## Featured Projects 💻
 
-### [Electrify Mobility](electrify_mobility_link)
+### [Electrify Mobility](https://electrify.geektech.software)
 
 ![Electrify Mobility Screenshot](electrify_mobility_screenshot_url)
 
