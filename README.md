@@ -20,7 +20,7 @@ I'm a dynamic **CEO and Founder** with a passion for **entrepreneurship, sustain
 ![Public Relations](https://img.shields.io/badge/-Public_Relations-2e8b57?style=flat-square&logoColor=white)
 ![Technology](https://img.shields.io/badge/-Technology-1e90ff?style=flat-square&logoColor=white)
 
-## Featured Projects 💻
+## Featured Startups 💻
 
 ### [Electrify Mobility](https://electrify.geektech.software)
 
@@ -37,5 +37,5 @@ I'm a dynamic **CEO and Founder** with a passion for **entrepreneurship, sustain
 ## Get in Touch 📬
 
 - **[LinkedIn](https://www.linkedin.com/in/abdelrhmanhatem/)**
-- **[Twitter](your_twitter_profile_link)**
+- **[Twitter](your_twitter_profile_linkhttps://twitter.com/GeeKTech01)**
 
